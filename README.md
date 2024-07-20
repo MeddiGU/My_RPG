@@ -2,7 +2,7 @@
 
 ![OnePieceRPG](img/Capture_menu.png)
 
-<h1>Un projet réalisé en fin de première année.</h1>
+Un projet réalisé en fin de première année.
 Objectif réalisé un jeu de type RPG (Role Playing Game) en 1 moi.
 
 # Thème One Piece
